@@ -1,5 +1,5 @@
 {
-  "name": "gulp-template-replace",
+  "name": "gulp-template-replace2",
   "version": "0.0.1",
   "description": "gulp插件，用于替换模版文件",
   "main": "./index.js",
